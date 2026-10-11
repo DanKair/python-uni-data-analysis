@@ -26,7 +26,7 @@ uv sync
 
 This command will install `pandas`, `numpy`, and `matplotlib`, which are essential for data analysis in this project.
 
-## To avoid .ipynb metadat inconsistencies, use:
+## To avoid .ipynb metadata inconsistencies, use:
 ```
 nbstripout --install
 ```
