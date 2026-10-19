@@ -16,15 +16,10 @@ To get started with this project, follow these steps to set up your environment 
 Navigate to the project directory and install the required packages:
 
 ```bash
-uv pip install pandas numpy matplotlib nbstripout
-```
-
-### Simpler method
-```
 uv sync
 ```
 
-This command will install `pandas`, `numpy`, and `matplotlib`, which are essential for data analysis in this project.
+This command will install `pandas`, `numpy`, `matplotlib`, and other libraries, which are essential for data analysis in this project.
 
 ## To avoid .ipynb metadata inconsistencies, use:
 ```
